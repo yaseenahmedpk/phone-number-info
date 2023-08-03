@@ -1,0 +1,21 @@
+{
+    "name": "bytes4sale/phone-number-info",
+    "description": "A Laravel package that provides comprehensive data related to phone numbers, including HLR insights, carrier details, and origin information.",
+    "type": "laravel-package",
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/framework": "^8.75"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bytes4sale\\PhoneNumberInfo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yaseen Ahmed"
+        }
+    ],
+    "minimum-stability": "beta"
+}
