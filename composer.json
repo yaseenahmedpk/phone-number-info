@@ -12,11 +12,15 @@
             "Bytes4sale\\PhoneNumberInfo\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Bytes4sale\\PhoneNumberInfo\\Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Yaseen Ahmed"
         }
     ],
-    
     "minimum-stability": "beta"
 }
